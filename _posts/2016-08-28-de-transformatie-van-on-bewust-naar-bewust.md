@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-28T08:29:05.753Z'
+datePublished: '2016-08-28T08:50:47.509Z'
 sourcePath: _posts/2016-08-28-de-transformatie-van-on-bewust-naar-bewust.md
 author: []
 via: {}
-dateModified: '2016-08-28T08:29:05.272Z'
+dateModified: '2016-08-28T08:50:47.057Z'
 title: De transformatie van on-bewust naar bewust.
 publisher: {}
 description: ''
@@ -16,5 +16,4 @@ _type: MediaObject
 ---
 # De transformatie van on-bewust naar bewust.
 
-### Op grote schaal is er een transformatie gaande in de samenleving.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6cc8c50-7f48-42ca-b865-94fb87a68abc.jpg)
+### Het fundament van een verandering in de samen-leving is de Transformatie van het bewustzijn van het individu. Awakening, beschreven als thuiskomen bij jezelf. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/89ce0650808baa40de8621ae71ced5e685f9c610.jpg)
