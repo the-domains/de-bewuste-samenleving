@@ -1,27 +1,25 @@
 ---
-datePublished: '2016-08-28T12:13:04.292Z'
+datePublished: '2016-08-28T12:17:21.863Z'
 sourcePath: _posts/2016-08-28-the-purpose-of-life.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T12:13:03.123Z'
+dateModified: '2016-08-28T12:17:21.239Z'
 title: ''
 publisher: {}
-description: het doel van het Leven / the purpose of Life
+description: 'het doel van het Leven '
 starred: true
 url: the-purpose-of-life/index.html
 _type: Article
 
 ---
-het doel van het Leven / the purpose of Life
+het doel van het Leven 
+
+the purpose of Life
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5059aa8-a306-49fd-881a-4d98e9b5607d.jpg)
 
-the purpose of 'human being' = being human
-
-het doel van mens zijn = mens zijn
-
-the purpose of Life = life itself
+the purpose of life = life 
 
 het doel van het leven = leven
 
