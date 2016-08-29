@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-28T11:56:00.854Z'
+datePublished: '2016-08-28T11:58:46.061Z'
 sourcePath: _posts/2016-08-28-the-purpose-of-life.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T11:56:00.248Z'
+dateModified: '2016-08-28T11:58:45.336Z'
 title: ''
 publisher: {}
 description: The Purpose of Life
 starred: true
-_type: Blurb
+url: the-purpose-of-life/index.html
+_type: Article
 
 ---
 The Purpose of Life
