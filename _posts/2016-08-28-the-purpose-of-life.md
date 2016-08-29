@@ -1,23 +1,21 @@
 ---
-datePublished: '2016-08-28T11:58:46.061Z'
+datePublished: '2016-08-28T12:07:36.080Z'
 sourcePath: _posts/2016-08-28-the-purpose-of-life.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T11:58:45.336Z'
+dateModified: '2016-08-28T12:07:35.498Z'
 title: ''
 publisher: {}
-description: The Purpose of Life
+description: Het doel van het Leven
 starred: true
 url: the-purpose-of-life/index.html
 _type: Article
 
 ---
-The Purpose of Life
-
 Het doel van het Leven
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5059aa8-a306-49fd-881a-4d98e9b5607d.jpg)
+![The Purpose of Life](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5059aa8-a306-49fd-881a-4d98e9b5607d.jpg)
 
 The purpose of 'human being' = being human
 
