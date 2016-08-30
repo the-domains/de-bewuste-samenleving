@@ -1,14 +1,14 @@
 ---
-id: 50561bc5-3f68-44fe-8c20-e5df8fe03ab6
-dateModified: '2016-08-28T12:55:26.545Z'
-title: ''
-datePublished: '2016-08-28T12:55:27.429Z'
-author: []
-description: the purpose of life = life
-publisher: {}
-via: {}
-starred: true
+datePublished: '2016-08-28T18:28:41.984Z'
 sourcePath: _posts/2016-08-28-the-purpose-of-life.md
+author: []
+via: {}
+dateModified: '2016-08-28T18:28:41.285Z'
+title: ''
+id: 50561bc5-3f68-44fe-8c20-e5df8fe03ab6
+publisher: {}
+description: the purpose of life = life
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
