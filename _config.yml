@@ -10,7 +10,12 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
+opengraph:
+  appId: 'https://www.facebook.com/joris.swinkels'
 layout_spectrum: 0.383120596408844
+author:
+  name: joris swinkels
+  email: joris@swinkels.be
 name: de bewuste samenleving
 title: de bewuste samen-leving
 description: the conscious society
