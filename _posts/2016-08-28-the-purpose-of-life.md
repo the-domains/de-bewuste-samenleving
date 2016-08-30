@@ -1,25 +1,22 @@
 ---
-datePublished: '2016-08-28T12:17:21.863Z'
+datePublished: '2016-08-28T12:53:57.006Z'
 sourcePath: _posts/2016-08-28-the-purpose-of-life.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T12:17:21.239Z'
+dateModified: '2016-08-28T12:53:55.772Z'
 title: ''
 publisher: {}
-description: 'het doel van het Leven '
+description: the purpose of life = life
 starred: true
 url: the-purpose-of-life/index.html
 _type: Article
 
 ---
-het doel van het Leven 
-
-the purpose of Life
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5059aa8-a306-49fd-881a-4d98e9b5607d.jpg)
 
-the purpose of life = life 
+the purpose of life = life
 
 het doel van het leven = leven
 
