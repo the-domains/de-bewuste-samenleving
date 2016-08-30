@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-08-28T12:53:57.006Z'
+id: 50561bc5-3f68-44fe-8c20-e5df8fe03ab6
+dateModified: '2016-08-28T12:55:26.545Z'
+title: ''
+datePublished: '2016-08-28T12:55:27.429Z'
+author: []
+description: the purpose of life = life
+publisher: {}
+via: {}
+starred: true
 sourcePath: _posts/2016-08-28-the-purpose-of-life.md
 inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-28T12:53:55.772Z'
-title: ''
-publisher: {}
-description: the purpose of life = life
-starred: true
-url: the-purpose-of-life/index.html
-_type: Article
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5059aa8-a306-49fd-881a-4d98e9b5607d.jpg)
-
 the purpose of life = life
 
 het doel van het leven = leven
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5059aa8-a306-49fd-881a-4d98e9b5607d.jpg)
 
 the purpose of the experience of life = to experience
 
