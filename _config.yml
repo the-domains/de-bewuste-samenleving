@@ -27,6 +27,9 @@ navigation:
   - name: cc.com
     url: creativeconsciosness.com
     type: external
+  - name: cc.nl
+    url: creativeconsciousness.nl
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/93e2381e-365c-417d-85c0-b24024e767f0.png
 title: de bewuste samen-leving
