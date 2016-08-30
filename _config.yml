@@ -17,8 +17,7 @@ layout_spectrum: 0.383120596408844
 author:
   name: joris swinkels
   email: joris@swinkels.be
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d490236c-a1a3-4087-9904-18f2c5faea29.png
+logo: null
 name: de bewuste samenleving
 navigation:
   - name: Contact
