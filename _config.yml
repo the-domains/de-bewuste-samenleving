@@ -20,9 +20,6 @@ author:
 logo: null
 name: de bewuste samenleving
 navigation:
-  - name: Ik
-    id: 72e10948-3efd-4e61-836e-403d0c8d85d2
-    type: content
   - name: Ik en jij
     id: b5ae5c31-b9ab-4fdf-8ec3-3a032f7418f0
     type: content
