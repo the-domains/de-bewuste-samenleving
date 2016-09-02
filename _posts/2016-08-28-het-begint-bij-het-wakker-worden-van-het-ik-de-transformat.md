@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-30T20:52:44.035Z'
+datePublished: '2016-08-30T21:09:59.514Z'
 sourcePath: >-
   _posts/2016-08-28-het-begint-bij-het-wakker-worden-van-het-ik-de-transformat.md
 author: []
 via: {}
-dateModified: '2016-08-30T20:52:22.361Z'
+dateModified: '2016-08-30T21:09:59.062Z'
 title: ''
 id: 07d54440-636e-4abe-a89a-544dc0d1b66d
 publisher: {}
 description: '4. business is expressie, business is ‘teal’'
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
