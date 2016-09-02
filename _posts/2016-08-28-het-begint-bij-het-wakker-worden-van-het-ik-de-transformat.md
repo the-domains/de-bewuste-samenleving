@@ -1,22 +1,31 @@
 ---
-datePublished: '2016-08-28T18:34:42.326Z'
+datePublished: '2016-08-30T20:01:44.283Z'
+sourcePath: >-
+  _posts/2016-08-28-het-begint-bij-het-wakker-worden-van-het-ik-de-transformat.md
 author: []
 via: {}
-dateModified: '2016-08-28T18:34:40.533Z'
+dateModified: '2016-08-30T20:01:43.376Z'
 title: ''
 id: 07d54440-636e-4abe-a89a-544dc0d1b66d
 publisher: {}
-description: 'business is expressie, business is teal'
+description: >-
+  Onze talenten en vaardigheden zetten we in om onszelf te onderhouden, om ons
+  leven invulling en kleur te geven met alle mogelijke expressie vormen zoals
+  ecologische systeembouw, bio tuinbouw, muziek, psychologische hulpverlening,
+  onderzoek, kunst, of dans, expressie geven aan alle creatieve impulsen die we
+  in ons hebben. Niet omdat het moet, maar omdat wij er gelukkig van worden en
+  omdat we er anderen gelukkig mee maken. De buitenwereld mag hier ook aan mee
+  doen en gebruik van maken. Hieruit ontstaan onze unieke Business expressies.
+  We organiseren deze op natuurlijke wijze volgens ‘Teal’ principes en kunnen
+  deze wereldwijd verspreiden. 
 starred: false
-sourcePath: >-
-  _posts/2016-08-28-het-begint-bij-het-wakker-worden-van-het-ik-de-transformat.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-business is expressie, business is teal
+1. business is expressie, business is teal
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/502d8d0143eca0baddabd5b21b4e83e5c9279158.jpg)
 
-de business expressie in de 'bewuste samen-leving' is in eerste instantie een expressie van de talenten en passies van de inwoners. deze expressie wordt gebruikt om de samen-leving te onderhouden, mooier te maken, invulling en kleur te geven. daarnaast wordt deze business expressie in service gesteld van andere leefgroepen en de omliggende medemens die zich niet heeft aangesloten bij de 'bewuste samen-leving'. De business expressie die hier uit voortkomt volgt ook de natuurlijke principes van organisatie zoals beschreven in 'teal' organiseren.
+Onze talenten en vaardigheden zetten we in om onszelf te onderhouden, om ons leven invulling en kleur te geven met alle mogelijke expressie vormen zoals ecologische systeembouw, bio tuinbouw, muziek, psychologische hulpverlening, onderzoek, kunst, of dans, expressie geven aan alle creatieve impulsen die we in ons hebben. Niet omdat het moet, maar omdat wij er gelukkig van worden en omdat we er anderen gelukkig mee maken. De buitenwereld mag hier ook aan mee doen en gebruik van maken. Hieruit ontstaan onze unieke Business expressies. We organiseren deze op natuurlijke wijze volgens 'Teal' principes en kunnen deze wereldwijd verspreiden.
