@@ -1,4 +1,3 @@
-layout_spectrum: 0.383120596408844
 typography_spectrum: 0.2963783321902156
 color:
   brandStrength: 0.16505977557972074
@@ -14,6 +13,7 @@ color:
 opengraph:
   appId: 'https://www.facebook.com/joris.swinkels'
   type: FB
+layout_spectrum: 0.383120596408844
 author:
   name: joris swinkels
   email: joris@swinkels.be
@@ -22,6 +22,9 @@ name: de bewuste samenleving
 navigation:
   - name: Contact
     id: cd8b8fea-0a46-4cc5-9e24-450ea84541ed
+    type: content
+  - name: Ik
+    id: 72e10948-3efd-4e61-836e-403d0c8d85d2
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/93e2381e-365c-417d-85c0-b24024e767f0.png
