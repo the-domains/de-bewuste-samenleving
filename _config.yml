@@ -20,9 +20,6 @@ author:
 logo: null
 name: de bewuste samenleving
 navigation:
-  - name: Contact
-    id: cd8b8fea-0a46-4cc5-9e24-450ea84541ed
-    type: content
   - name: Ik
     id: 72e10948-3efd-4e61-836e-403d0c8d85d2
     type: content
@@ -37,6 +34,9 @@ navigation:
     type: content
   - name: Fundamenten
     id: 39edd0a3-6754-4d4d-b8fd-a536bd9d303d
+    type: content
+  - name: Contact
+    id: cd8b8fea-0a46-4cc5-9e24-450ea84541ed
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/93e2381e-365c-417d-85c0-b24024e767f0.png
