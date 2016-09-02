@@ -35,6 +35,9 @@ navigation:
   - name: 'Business '
     id: afaa1159-9a2e-471a-b02a-ba7e3d5a1b0b
     type: content
+  - name: Fundamenten
+    id: 39edd0a3-6754-4d4d-b8fd-a536bd9d303d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/93e2381e-365c-417d-85c0-b24024e767f0.png
 title: de bewuste samen-leving
