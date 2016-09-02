@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T20:02:24.492Z'
+datePublished: '2016-08-30T20:05:39.966Z'
 sourcePath: >-
   _posts/2016-08-28-het-begint-bij-het-wakker-worden-van-het-ik-de-transformat.md
 author: []
 via: {}
-dateModified: '2016-08-30T20:02:23.965Z'
+dateModified: '2016-08-30T20:05:39.478Z'
 title: ''
 id: 07d54440-636e-4abe-a89a-544dc0d1b66d
 publisher: {}
