@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-31T09:55:52.305Z'
+datePublished: '2016-08-31T10:04:38.413Z'
 sourcePath: _posts/2016-08-30-4-business-is-expressie-business-is-teal.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T09:55:51.740Z'
+dateModified: '2016-08-31T10:04:37.970Z'
 title: '4. Business is expressie, business is ‘teal’'
 publisher: {}
 description: >-
@@ -17,7 +18,6 @@ description: >-
   gebruik van maken. Hieruit ontstaan onze unieke business expressies. We
   organiseren deze op natuurlijke wijze volgens ‘teal’ principes en verspreiden
   deze wereldwijd.
-hasPage: true
 starred: true
 url: 4-business-is-expressie-business-is-teal/index.html
 _type: Article
