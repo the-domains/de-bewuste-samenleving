@@ -29,6 +29,9 @@ navigation:
   - name: Ik en jij
     id: b5ae5c31-b9ab-4fdf-8ec3-3a032f7418f0
     type: content
+  - name: Wij allen
+    id: f51e16e1-0e3c-4a7a-8416-ad3534e61e79
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/93e2381e-365c-417d-85c0-b24024e767f0.png
 title: de bewuste samen-leving
