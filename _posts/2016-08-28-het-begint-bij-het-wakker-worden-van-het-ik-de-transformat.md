@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T21:09:59.514Z'
+datePublished: '2016-08-30T21:10:01.963Z'
 sourcePath: >-
   _posts/2016-08-28-het-begint-bij-het-wakker-worden-van-het-ik-de-transformat.md
 author: []
 via: {}
-dateModified: '2016-08-30T21:09:59.062Z'
+dateModified: '2016-08-30T21:10:01.186Z'
 title: ''
 id: 07d54440-636e-4abe-a89a-544dc0d1b66d
 publisher: {}
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea7a6e16-6263-45bb-9a16-59d28c3ae6a8.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/decb57c7496033b9c0e6c782422fd31a/croprotate.jpg?cropheight=2229&cropwidth=3453&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fea7a6e16-6263-45bb-9a16-59d28c3ae6a8.jpg&x=0&y=0)
 
 4\. business is expressie, business is 'teal'
 
