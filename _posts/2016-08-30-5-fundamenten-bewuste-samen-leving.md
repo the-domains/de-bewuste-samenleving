@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-30T20:57:00.535Z'
+datePublished: '2016-08-30T21:09:44.129Z'
 sourcePath: _posts/2016-08-30-5-fundamenten-bewuste-samen-leving.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T20:56:46.668Z'
+dateModified: '2016-08-30T21:09:43.125Z'
 title: ''
 publisher: {}
 description: 5. fundamenten van ‘de bewuste samen-leving’
-starred: false
+starred: true
 _type: Blurb
 
 ---
