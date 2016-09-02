@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-31T09:56:09.948Z'
+datePublished: '2016-08-31T10:03:30.186Z'
 sourcePath: _posts/2016-08-30-5-fundamenten-bewuste-samen-leving.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T09:56:09.429Z'
+dateModified: '2016-08-31T10:03:29.713Z'
 title: 5. Fundamenten van ‘de bewuste samen-leving’
 publisher: {}
 description: >-
@@ -22,7 +23,6 @@ description: >-
   ‘het verhaal’ er over. We creëren met ons woord als fundament. We laten los,
   vergeven waar nodig en gaan verder. We streven naar compleetheid. We geven
   expressie aan wat geuit moet worden. We doen goed en maken fouten.
-hasPage: true
 starred: true
 url: 5-fundamenten-van-de-bewuste-samen-leving/index.html
 _type: Article
